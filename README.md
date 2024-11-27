@@ -11,9 +11,9 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 * What is the most watched film?
 * Who is the most watched actor?
 ## Systems Used
-* pgAdmin4: For managing PostgreSQL databases.
-* PostgreSQL: Relational Database Management System used to store and query Rockbuster's data.
-* Tableau Public: Platform used for creating and sharing data visualizations.
+* **pgAdmin4:** For managing PostgreSQL databases.
+* **PostgreSQL:** Relational Database Management System used to store and query Rockbuster's data.
+* **Tableau Public:** Platform used for creating and sharing data visualizations.
 ## Data Overview
 Dataset includes comprehensive information on Rockbuster's film inventory, customer profiles, and payment transactions.
 ## Key Data Points
